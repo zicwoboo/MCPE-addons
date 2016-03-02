@@ -40,4 +40,4 @@ public:
 	ItemInstance& getTierItem() const;
 	bool hasCustomColor(const ItemInstance&) const;
 	void setColor(ItemInstance*, const Color*);
-};
+}; ㅇ
